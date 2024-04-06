@@ -31,7 +31,7 @@ let all_product = [
         image:couple1,
         new_price:100.00,
         old_price:130.56,
-
+        category:"couple",
     },
     {
         id:2,
@@ -39,7 +39,7 @@ let all_product = [
         image:couple2,
         new_price:70.99,
         old_price:90.99,
-
+        category:"couple",
     },
     {
         id:3,
@@ -47,7 +47,7 @@ let all_product = [
         image:couple3,
         new_price:50.34,
         old_price:90.00,
-
+        category:"couple",
     },
     {
         id:4,
@@ -55,7 +55,7 @@ let all_product = [
         image:couple4,
         new_price:80.00,
         old_price:90.99,
-
+        category:"couple",
     },
     {
         id:5,
@@ -63,7 +63,7 @@ let all_product = [
         image:couple5,
         new_price:95.00,
         old_price:120.50,
-
+        category:"couple",
     },
     {
         id:6,
@@ -71,7 +71,7 @@ let all_product = [
         image:couple6,
         new_price:110.99,
         old_price:150.23,
-
+        category:"couple",
     },
     {
         id:7,
@@ -79,7 +79,7 @@ let all_product = [
         image:couple7,
         new_price:90.67,
         old_price:76.50,
-
+        category:"couple",
     },
     {
         id:8,
@@ -87,7 +87,7 @@ let all_product = [
         image:couple8,
         new_price:106.00,
         old_price:125.56,
-
+        category:"couple",
     },
     {
         id:9,
@@ -95,7 +95,7 @@ let all_product = [
         image:couple9,
         new_price:30.00,
         old_price:60.56,
-
+        category:"couple",
     },
     {
         id:10,
@@ -103,7 +103,7 @@ let all_product = [
         image:man1,
         new_price:50.00,
         old_price:70.56,
-
+        category:"man",
     },
     {
         id:11,
@@ -111,7 +111,7 @@ let all_product = [
         image:man2,
         new_price:40.00,
         old_price:60.56,
-
+        category:"man",
     },
     {
         id:12,
@@ -119,7 +119,7 @@ let all_product = [
         image:man3,
         new_price:50.50,
         old_price:70.99,
-
+        category:"man",
     },
     {
         id:13,
@@ -127,7 +127,7 @@ let all_product = [
         image:man4,
         new_price:100.60,
         old_price:130.50,
-
+        category:"man",
     },
     {
         id:14,
@@ -135,7 +135,7 @@ let all_product = [
         image:man5,
         new_price:66.89,
         old_price:80.56,
-
+        category:"man",
     },
     {
         id:15,
@@ -143,7 +143,7 @@ let all_product = [
         image:man6,
         new_price:40.00,
         old_price:50.56,
-
+        category:"man",
     },
     {
         id:16,
@@ -151,7 +151,7 @@ let all_product = [
         image:man7,
         new_price:100.00,
         old_price:120.99,
-
+        category:"man",
     },
     {
         id:17,
@@ -159,7 +159,7 @@ let all_product = [
         image:man8,
         new_price:50.00,
         old_price:70.56,
-
+        category:"man",
     },
     {
         id:18,
@@ -167,7 +167,7 @@ let all_product = [
         image:woman1,
         new_price:50.50,
         old_price:70.50,
-
+        category:"woman",
     },
     {
         id:19,
@@ -175,7 +175,7 @@ let all_product = [
         image:woman2,
         new_price:78.50,
         old_price:90.99,
-
+        category:"woman",
     },
     {
         id:20,
@@ -183,7 +183,7 @@ let all_product = [
         image:woman3,
         new_price:55.00,
         old_price:80.56,
-
+        category:"woman",
     },
     {
         id:21,
@@ -191,7 +191,7 @@ let all_product = [
         image:woman4,
         new_price:70.00,
         old_price:90.56,
-
+        category:"woman",
     },
     {
         id:22,
@@ -199,7 +199,7 @@ let all_product = [
         image:woman5,
         new_price:5.00,
         old_price:70.50,
-
+        category:"woman",
     },
     {
         id:23,
@@ -207,7 +207,7 @@ let all_product = [
         image:woman6,
         new_price:80.00,
         old_price:90.56,
-
+        category:"woman",
     },
     {
         id:24,
@@ -215,7 +215,7 @@ let all_product = [
         image:woman7,
         new_price:99.99,
         old_price:120.56,
-
+        category:"woman",
     },
     {
         id:25,
@@ -223,7 +223,7 @@ let all_product = [
         image:woman8,
         new_price:80.50,
         old_price:100.50,
-
+        category:"woman",
     }
 ]
 

@@ -14,7 +14,7 @@ let data_product = [
         image:new1,
         new_price:50.34,
         old_price:90.00,
-
+        category:"woman",
     },
     {
         id:2,
@@ -22,7 +22,7 @@ let data_product = [
         image:new2,
         new_price:50.50,
         old_price:70.50,
-
+        category:"woman",
     },    
     {
         id:3,
@@ -30,7 +30,7 @@ let data_product = [
         image:new3,
         new_price:80.50,
         old_price:100.50,
-
+        category:"woman",
     },
     {
         id:4,
@@ -38,7 +38,7 @@ let data_product = [
         image:new4,
         new_price:66.89,
         old_price:80.56,
-
+        category:"man",
     },
     {
         id:5,
@@ -46,7 +46,7 @@ let data_product = [
         image:new5,
         new_price:66.89,
         old_price:80.56,
-
+        category:"man",
     },
     {
         id:6,
@@ -54,7 +54,7 @@ let data_product = [
         image:new6,
         new_price:66.89,
         old_price:80.56,
-
+        category:"couple",
     },
     {
         id:7,
@@ -62,7 +62,7 @@ let data_product = [
         image:new7,
         new_price:66.89,
         old_price:80.56,
-
+        category:"couple",
     },
     {
         id:8,
@@ -70,7 +70,7 @@ let data_product = [
         image:new8,
         new_price:66.89,
         old_price:80.56,
-
+        category:"couple",
     },
 ]
 
